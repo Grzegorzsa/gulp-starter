@@ -1,0 +1,17 @@
+@import "./reset/basic-reset";
+
+$bodyColor: salmon;
+
+body {
+	background: $bodyColor;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	height: 100vh;
+}
+
+h1 {
+	font-family: Helvectica, Arial, sans-serif;
+	font-size: 5vw;
+}

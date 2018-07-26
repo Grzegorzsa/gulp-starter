@@ -1,0 +1,3 @@
+"use strict";console.log("hello from js3");
+"use strict";console.log("hello from secondary");
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiLCJzZWNvbmRhcnktc2NyaXB0cy5qcyJdLCJuYW1lcyI6WyJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiQUFBQSxZQUFBQSxTQUFRQyxJQUFJO0FDQVosWUFBQUQsU0FBUUMsSUFBSSIsImZpbGUiOiJzY3JpcHRzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc29sZS5sb2coJ2hlbGxvIGZyb20ganMzJyk7IiwiY29uc29sZS5sb2coJ2hlbGxvIGZyb20gc2Vjb25kYXJ5Jyk7Il19
